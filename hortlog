@@ -1,0 +1,704 @@
+[33mcommit ebda831ed976a099e06cc0e203aeec12232db129[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sana <sana.iitk@gmail.com>
+Date:   Tue Dec 3 04:05:29 2019 +0000
+
+    End of Episode 1b
+
+[33mcommit 72244287c3b0e92fec3a0d296120ddc4ed299f71[m
+Author: sana <sana.iitk@gmail.com>
+Date:   Tue Dec 3 01:18:25 2019 +0000
+
+    End of episode 1a
+
+[33mcommit cfe5e990c3bcef80cd336f6be34fb99edd221cad[m
+Author: sana <sana.iitk@gmail.com>
+Date:   Mon Dec 2 23:01:40 2019 +0000
+
+    messed this welcome notebook
+
+[33mcommit cbd5d5e8ef6eb5bdcd5d3a06bcb4dfdf1a1880b2[m
+Author: sanakhan1991 <43262299+sanakhan1991@users.noreply.github.com>
+Date:   Tue Dec 3 09:34:02 2019 +1100
+
+    insert my git username
+
+[33mcommit 89572387dc68f27e625b751fda1468bd68d6a69b[m
+Author: ricard-miller <richard.miller@mq.edu.au>
+Date:   Mon Dec 2 10:17:55 2019 +0000
+
+    minor tweeks to shell
+
+[33mcommit e33e23d114390a8cb6f49b305de3926cc382331c[m
+Author: ricard-miller <richard.miller@mq.edu.au>
+Date:   Mon Dec 2 09:39:41 2019 +0000
+
+    tweek git-setup prompts
+
+[33mcommit ab3c7af7b6f3b53c08bd459f930592bff5a8ef4d[m
+Merge: 9cfc03c 56f2607
+Author: ricard-miller <richard.miller@mq.edu.au>
+Date:   Mon Dec 2 09:37:33 2019 +0000
+
+    Merge branch 'master' of https://github.com/MQ-software-carpentry/2019-12-03-intro-to-python-workshop
+
+[33mcommit 9cfc03cf0fd0205b35c6ba09c8a1833d5ad4eeae[m
+Author: ricard-miller <richard.miller@mq.edu.au>
+Date:   Mon Dec 2 09:36:40 2019 +0000
+
+    fix typos
+
+[33mcommit 56f2607866c00f41398705bbe6251b34ea93ef04[m
+Author: rrasins <reegleeson@gmail.com>
+Date:   Mon Dec 2 20:19:38 2019 +1100
+
+    Added NumPy axes diagram and explanation to ep1b
+
+[33mcommit a618252600851f8899ff873b1f1d2fdd910c7ae1[m
+Author: rrasins <reegleeson@gmail.com>
+Date:   Thu Nov 28 18:51:11 2019 +1100
+
+    Split ep1 into two parts
+
+[33mcommit 1fec95616bbc5cbe883134400b109cf7f0586ea6[m
+Author: rrasins <reegleeson@gmail.com>
+Date:   Thu Nov 28 18:22:30 2019 +1100
+
+    Typos corrected from other eps
+
+[33mcommit 0082f3dfc4e5ea4443bb6ac762f67b9675698595[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Dec 2 19:54:43 2019 +1100
+
+    Updates for the 2019-12-03 workshop
+
+[33mcommit 763e1aca2b56c435f9e5b69f5f10fc7277ffce3b[m
+Author: rrasins <reegleeson@gmail.com>
+Date:   Thu Nov 28 16:39:31 2019 +1100
+
+    Fixed ep2 typos
+
+[33mcommit 76cc71f8dea00cf48cb729aa0cba5749bfd3cab5[m
+Author: Nishen Naidoo <nishen.naidoo@mq.edu.au>
+Date:   Thu Nov 28 14:34:02 2019 +1100
+
+    Changed Episode number from 2 to 4
+
+[33mcommit 98845ee3a963af96779bb1adeaefd32be2e39931[m
+Author: rrasins <reegleeson@gmail.com>
+Date:   Thu Nov 28 13:23:01 2019 +1100
+
+    ep1 updated tiny array and corrected typos
+
+[33mcommit ff6735b1c80c5c1f75f2a16d6e6698afcfda72f4[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Nov 25 18:02:36 2019 +1100
+
+    fixed the dates
+
+[33mcommit 32fc498f8690744dd047c41d1b59685c45443bfc[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Nov 25 17:57:07 2019 +1100
+
+    fixed link
+
+[33mcommit 09dfee5b5562dbdaaa0f6cb8c13818c3a88d7571[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Nov 25 17:56:28 2019 +1100
+
+    removed https:// prefix
+
+[33mcommit 25e6a06e90525470c65a9779c2165db3425c49ed[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Nov 25 17:55:35 2019 +1100
+
+    switched to dates and links to new workshop
+
+[33mcommit 43db54212bc33562660ea0bce04b3f1868c23f31[m
+Author: James Tocknell <aragilar@gmail.com>
+Date:   Thu Jul 25 12:01:19 2019 +1000
+
+    Add instructions for getting the latest version
+
+[33mcommit dc93e4540c3c56890b00a0654e19ce5bf8226a0a[m
+Merge: bee3f65 7764948
+Author: James Tocknell <aragilar@gmail.com>
+Date:   Thu Jul 25 11:38:07 2019 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit bee3f6566b6416283a0dc44c9c81d410cd145abf[m
+Author: James Tocknell <aragilar@gmail.com>
+Date:   Thu Jul 25 11:37:42 2019 +1000
+
+    Use fetch not pull
+
+[33mcommit 77649482edf0d21e2978a69bd6fda1ff94bb66ba[m
+Author: James Tocknell <aragilar+github@gmail.com>
+Date:   Thu Jul 25 11:34:09 2019 +1000
+
+    Add small intro
+
+[33mcommit 9d7c6fdff464bd744ff13f577ebf017a4584559e[m
+Author: James Tocknell <aragilar@gmail.com>
+Date:   Thu Jul 25 11:31:00 2019 +1000
+
+    Fix file name (so that it renders on github)
+
+[33mcommit ff9075eca24e7b525d8133f754c7387babb54828[m
+Author: James Tocknell <aragilar+github@gmail.com>
+Date:   Thu Jul 25 11:29:14 2019 +1000
+
+    Add some useful resources
+
+[33mcommit 54cf75424ed6c2216f8178bebd9bb89b8d4b3c1e[m
+Author: James Tocknell <aragilar+github@gmail.com>
+Date:   Thu Jul 25 11:20:20 2019 +1000
+
+    Added quick summary
+
+[33mcommit 8d89cc477fbd4b0ed12aa9f79d9f4bdfb6b26c70[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 23 21:37:13 2019 +0000
+
+    add shell ep4 and ep5 as links
+
+[33mcommit dfe532bbf503869a1fc0f2a7855f4593706c634d[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 23 12:54:42 2019 +0000
+
+    finished ep 3
+
+[33mcommit bc39652329187883faa5c902c52388587a505cc0[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 23 11:40:02 2019 +0000
+
+    work on ep3 shell
+
+[33mcommit 6ecd1212aeadb042a03bbd483d3784f20d0c2291[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 23 11:15:58 2019 +0000
+
+    add ep3
+
+[33mcommit 5faa4543e64d8861a4f3e129e9950aecf0a29d52[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 23 20:59:14 2019 +1000
+
+    remove dev lin
+
+[33mcommit b491d643bbbfd864297064a4dfc857fc80d2e573[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Tue Jul 23 04:47:43 2019 +0000
+
+    add shell example data and finished ep2 shell
+
+[33mcommit ef6e7a95b9d61b26144a726ee26078bcabb08336[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Tue Jul 23 02:50:48 2019 +0000
+
+    added shell ep1
+
+[33mcommit 5ebc714fcedc56b763e6c8ef74888d46c5cf5ed9[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Tue Jul 23 01:22:21 2019 +0000
+
+    even more ep6
+
+[33mcommit 2df6d7feec37077da000a93dbb4adce859ba4e86[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Mon Jul 22 23:28:34 2019 +0000
+
+    more ep6
+
+[33mcommit fb3e7b3b5646564a8649453ac82ef16eec8a58f1[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 08:22:16 2019 +0000
+
+    started on ep6
+
+[33mcommit 956c6b17f132665a309c08bc3b377762c8fa66e0[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 13:22:12 2019 +1000
+
+    another cosmetic change
+
+[33mcommit d30bd3d63af218e56edbd9da50d0fc7448b3116d[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 13:20:16 2019 +1000
+
+    tweeked binder link
+
+[33mcommit db4d616284b30baff42cb25cc7b8d68022bc6604[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 13:18:17 2019 +1000
+
+    updated binder link format
+
+[33mcommit 99550cbaee793f1078261d55ea42fad543382ce3[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 10:31:33 2019 +1000
+
+    experimenting with icons
+
+[33mcommit f2fd06fe8250f5bdb808a7601780daf7d3992466[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 10:22:10 2019 +1000
+
+    added button
+
+[33mcommit 987d55e3b62599e19595979739cad6bda5602575[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 22 10:12:15 2019 +1000
+
+    update some formatting
+
+[33mcommit 00983e7780c9e723722f369bb17fea46edaf0b43[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Fri Jul 19 03:44:58 2019 +0000
+
+    fixed numbering
+
+[33mcommit 222ecbf2156f3edf9cace816296049c1413c4107[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Fri Jul 19 02:44:12 2019 +0000
+
+    during prep meeting
+
+[33mcommit 026d2be6533a25902ebeb94654ae69dc8297e0f3[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Fri Jul 19 12:36:07 2019 +1000
+
+    messed with binder link
+
+[33mcommit a01dec90e5ec88f9e00841e9a6034aa85cdf9421[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Fri Jul 19 01:58:54 2019 +0000
+
+    clear code output cells
+
+[33mcommit b6baf8f9055536ecc94906a6f0c2e349b046d592[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Fri Jul 19 01:56:48 2019 +0000
+
+    added python ep5
+
+[33mcommit abd3192c4553899025eee4a1f74927926f9d1322[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Thu Jul 18 06:49:51 2019 +0000
+
+    changed file name
+
+[33mcommit 6b69eb561258a69353946adfcbc97817c5e54bde[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Thu Jul 18 06:49:20 2019 +0000
+
+    added python ep4
+
+[33mcommit cafb9d79aa04e5ee29372daeab7db943a2659174[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Thu Jul 18 04:09:48 2019 +0000
+
+    added python ep3
+
+[33mcommit 7b7ca3b976f2b900b51a78f30ba128f5885eaa33[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Thu Jul 18 02:40:36 2019 +0000
+
+    added save and version to eps
+
+[33mcommit 236296a6c0325d49de38a39b1618c9a8b84b2b81[m
+Author: Richard <richard-miller@mq.edu.au>
+Date:   Thu Jul 18 02:37:52 2019 +0000
+
+    added python episode 2
+
+[33mcommit fde2b42f39834562964c41aa15ba7b1ba0b1c309[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Thu Jul 18 00:41:16 2019 +1000
+
+    fixed typo
+
+[33mcommit 1d38d252de6d29eb9d58cfe947e537eeb02ba9f1[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Wed Jul 17 12:12:50 2019 +0000
+
+    added excel image
+
+[33mcommit 5a28e7511986b326c907a42488a54ba76eaab96f[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Wed Jul 17 11:28:28 2019 +0000
+
+    finished python ep1
+
+[33mcommit 72d1347b87231edf6d4be9ae375b7d9a12d97f84[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Wed Jul 17 19:46:08 2019 +1000
+
+    added the inflamation data files
+
+[33mcommit 6c50492738c8f48992572809a6acb0a78f8f83d9[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Wed Jul 17 19:33:16 2019 +1000
+
+    we need a couple of libraries
+
+[33mcommit 6710ad649f74f1d73f878fe24af51f0b6a480609[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 22:28:14 2019 +1000
+
+    removed numpy from .cache
+    
+    
+    Former-commit-id: 409795f61826c8c3fbc444f9d158cec0dabc7fb8 [formerly 13cbeb6e6183904c31d2bfcd3c082c4bf99d148d] [formerly 85c7a001d29f6f5fe154ae623572852b153d3b4b [formerly 9ac1a8c0f4e636921a6e20f74ebd3761ed86b118]]
+    Former-commit-id: f284b7d486949fa6a341d7223815792a1b229e04 [formerly 68237357a372768a434c49c02a9eb5aa7cdc81c1]
+    Former-commit-id: 091f3446e85f0292d267daeacf60e53526acee25
+
+[33mcommit 49574795c51e1a97911a20b779454bce75d052e7[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 11:38:03 2019 +0000
+
+    more ep1
+    
+    
+    Former-commit-id: f9b41a5b9469bcfa6120f2a9427c4300e560ec56 [formerly c9762f062a3ce5b3b5fda7225c43f5622584aef1] [formerly a2b1f126f06e83b45ea981a06a84f36f2e0428a2 [formerly c3123223f748b9c56011a58103d67494aaf71587]]
+    Former-commit-id: e3d8d3b5c8472c2d9bc8b21fd3f1f6ea187b65c9 [formerly f0fa71a40fc91ce5c91a7f906e1ce4a884159de2]
+    Former-commit-id: 03e80f3808ba90f81d60ed809d7dfae42180ffb0
+
+[33mcommit bb28536c47a004df691adb0616df0c5e91adfc3a[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 20:18:07 2019 +1000
+
+    add binder link for MQ SWC repo
+    
+    Former-commit-id: f68dc3347a61329998cbae50b5a48dff58686f4b [formerly e4a4bd12ba904c20bdc29f1663208db6ee844b93]
+    Former-commit-id: 5680a1d786b9215a28af1549cb9296fd7ec53b05
+
+[33mcommit 8558db8ca9ee4e7baee7337439f16b857a38356c[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 20:07:50 2019 +1000
+
+    some rewording
+    
+    Former-commit-id: e5f2220b5fc64c8f756c243a74ce50ddf293f7a5 [formerly 0959442d4ab8bc7684f7fba84f65cf44b5656c31]
+    Former-commit-id: af3fd550db2c800da488444f260187cd33c0c66e
+
+[33mcommit 130783dfdd0d40d5d8e1611b25420f97b9dac45b[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 09:36:34 2019 +0000
+
+    started ep1
+    
+    
+    Former-commit-id: 668f68e658e694ca1ecee62d90c56233330a26c7 [formerly 0c1c545bbe39779df0c15e85c88115e8b9d75e6f]
+    Former-commit-id: 7f180f0421628b02d1ed09a578fcb83946002f89
+
+[33mcommit 039aaae18320145f586e1c983cef31e5f6644285[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 07:21:56 2019 +0000
+
+    changes on binder
+    
+    
+    Former-commit-id: 615206be8fd153a9d635ab5c6dee7617efd0085c [formerly 6bbc8b7c1975552a1389f1e1f34872eff711b965]
+    Former-commit-id: 5d777f3852809689c18ca66e1af8e2d7f14d1d5f
+
+[33mcommit e6cf1eeacc01f57445624a912c56ef4cab6298e1[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 05:34:54 2019 +0000
+
+    welcome page
+    
+    
+    Former-commit-id: 411c2466bfee38300af54e0efab5d9c25eab1e79 [formerly 545010d1f80540797e1f5a044bd9c8c8120b6371]
+    Former-commit-id: 9eb871703d74e3b5118ed2d9f36b40125033396f
+
+[33mcommit 3595481e9c243b0f17a283451d1d432c0ba9359a[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 15:27:44 2019 +1000
+
+    Delete Start-Here-checkpoint.txt
+    
+    Former-commit-id: 9ea74e154ff25ebc6a9153eb9883fd6f2c5d0c33 [formerly cd6ce594c1642da4f0fbcc89c49c9040d2146be1]
+    Former-commit-id: 70a4472236dced856f78c8b906d127f3f508a37f
+
+[33mcommit 1782381e55cf111ad81f4678362e9b9733790097[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 15:27:27 2019 +1000
+
+    Delete README
+    
+    Former-commit-id: b0cb37be175d9ef2581d4eb38d4d9367766569c0 [formerly 7235387722d84bda2423d9dd9e857692636b14ac]
+    Former-commit-id: c0a6828afa10c558d57d05ec578729838d282f95
+
+[33mcommit 9b607e1e1957477cc511dac6d12719c156f84969[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 15:26:46 2019 +1000
+
+    Delete history.sqlite
+    
+    Former-commit-id: 945b35407c41e47b999e315e262e26a53c425c6e [formerly b3e3461f9d5469db39fa5b40358c21dde6cfe55f]
+    Former-commit-id: 258f220f9bcbd723f9305e06479b182e9806d43e
+
+[33mcommit 23669b08a6f3d8efb67699caceb83325b22c914e[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 05:22:12 2019 +0000
+
+    start here added
+    
+    
+    Former-commit-id: da34873d1297633cb7983bebcaf76f927d237eb6 [formerly e34f9d5e295479c68aede09b147cd0a6bc6d71ff]
+    Former-commit-id: 888cea5be1b27e4cbacc1921e4acd087af19f2b1
+
+[33mcommit 2cab908135c0c5738edfc4fef4652f0b7974b334[m
+Author: Richard <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 05:10:56 2019 +0000
+
+    added more directories
+    
+    
+    Former-commit-id: 811ef43c4f20cb813cda1deaa5971731d74ba74f [formerly f53f1c8b9cbfc88e6b046ffef1239cda5cc63f4b]
+    Former-commit-id: ee3ec274887261600f9d342a2451e2666b58a489
+
+[33mcommit b0f7a8e67e93e5f8c2c0743686c19c6391749e5d[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 04:42:00 2019 +0000
+
+    install vim
+    
+    
+    Former-commit-id: 36c01f484eca5f65182c2f1ecb018c66d21d3f54 [formerly 12f910ae9c43752ec16de92c13d571c02b4a4817]
+    Former-commit-id: ebb8cf3e4743d51d1b9da3836ec3fa73271d7d4b
+
+[33mcommit 216f01d2228dab5bbab7824f0073de8870f7e6fb[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 14:28:10 2019 +1000
+
+    updated link
+    
+    Former-commit-id: d7fd9b919258865b5db9f4e7863d4ad57ce4d6fb [formerly 07439139c00cd5c7ee2272fb696deb240fbbb25b]
+    Former-commit-id: c095476913d2f02303416b89730f5b56ee8b5258
+
+[33mcommit 1c416649e2a342ff60f73fe44a67c90184ce4410[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 14:26:07 2019 +1000
+
+    added ?urlpath=lab to binder badge
+    
+    Former-commit-id: 06d69992410001a22c6e9061852f7d825876cb2d [formerly 1e16dc44e3a2e32aea3d85abf0a5ac4711c11d85]
+    Former-commit-id: 2f239d6b588e5a4b81ddb0b0a53e39f8504ff95e
+
+[33mcommit eb4b4973954451fe6661535e62769707bcfe0e80[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 13:45:58 2019 +1000
+
+    updated binder link
+    
+    Former-commit-id: 63e19e682e2fe0577cca07458361f108ad7fc675 [formerly 2550fa6f2857e60fa5d7de09097b8b3511e6924d]
+    Former-commit-id: 732ed032a7af7dc449f2f1caa6e3274353355e96
+
+[33mcommit 78fc33ca47b78209a85bd161a30a1bb7f18a76d8[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 13:41:02 2019 +1000
+
+    messed with binder links
+    
+    Former-commit-id: 2c3d36fd90d3968741e5cdb5128015d21595b695 [formerly 4880bef5cc8f2b530c1a342fe9ad6f2a9cb6351b]
+    Former-commit-id: bc7bf8d42a7313d58b4dd72eeed1e3920ecdb2b8
+
+[33mcommit 93989cbbf3f453b8830b68185a457599968d5212[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 13:39:02 2019 +1000
+
+    Update README.md
+    
+    Former-commit-id: 80dd2f7f00adc153a053ae9ad9a46be210d9d6e5 [formerly f1b55fde701cbe58fab266bc0c1846e7fa81dff8]
+    Former-commit-id: 43ef50b199a3503a8e6c61f3498823036bb7fca9
+
+[33mcommit a1ff147057e2a40b9a295625feaa68bec5e51b06[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 13:32:16 2019 +1000
+
+    added binder icons
+    
+    Former-commit-id: b4adab223f260a478f2f7e489cc432de0a395b16 [formerly 60691548d22cd33059cc6a6e962017f5f346fc56]
+    Former-commit-id: 2b384a9c155d473d4cfbcff5c4aa79ad0accd23a
+
+[33mcommit 1ec5a0485eff9b5b3d0f7b34e7bb3f869f26977d[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 13:17:01 2019 +1000
+
+    Update README.md
+    
+    Former-commit-id: 261ad97388813441ac5028161a8ec708fb7c62af [formerly 851e88df70da4053b13376802e0fc4f6484e89b5]
+    Former-commit-id: b0807dac255fc0c1f9fd06fdc599748d4cf4d628
+
+[33mcommit 8f4230fba556ec398659d3e4c2b3017f6d451276[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 13:12:45 2019 +1000
+
+    added comment TIP
+    
+    Former-commit-id: c9e41e31212f7f83093b157d5d7016bf2a24ef35 [formerly d868dc26b8e936a401da40051a18052563407841]
+    Former-commit-id: 0dc05f9bc83a50432cf3673c44478dab823e125b
+
+[33mcommit 552f10f792c50706920e35d8e2a0e458c468ef62[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 12:46:59 2019 +1000
+
+    scaled screen shots
+    
+    Former-commit-id: e8e9de21fba7d15705c6bf4cb45efe543317017f [formerly 97c1685803d634c9b84019b905fa122d14f9a0c0]
+    Former-commit-id: 2fc0da15d66c3e865fc175857930a4088ebcb279
+
+[33mcommit a52b94bcc1bb3d9f43f263e4d887f7e890a232c6[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 12:41:09 2019 +1000
+
+    updated to readme image
+    
+    Former-commit-id: 29993df3601cad8ce48174ef7b001460d1253e74 [formerly 07278a7ba263dba7ec4f0ce131b9d243a11016ea]
+    Former-commit-id: 9c44f1888561987b5f32078a88593a5150705722
+
+[33mcommit 85c8584157232afa809572c699ef77e4675fcbda[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 12:40:27 2019 +1000
+
+    added edit readme screen shot
+    
+    Former-commit-id: fe2d0a4f3aff2feeb816873d2812b50eacbc1a67 [formerly de771a0f30209ee23f7298a367a3444b3895f845]
+    Former-commit-id: 7363323a6257879f2ab29ca663cf2fd250191487
+
+[33mcommit 236d827a28342d20e37618a5a5b5df1e14ad0f1e[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 12:37:17 2019 +1000
+
+    updated wording
+    
+    Former-commit-id: 233c85693f1c02ec2e46bea160356350b839cd9c [formerly 1c4b4d2ca9a2f6fb59ad685a02a78b6aaf25ea69]
+    Former-commit-id: 62a9481ef0aa3345eecd4032d5d5a4bc3211a14d
+
+[33mcommit dea846d0b6ea5d249e2d6b25e92c94ac4eb3de0e[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 12:35:03 2019 +1000
+
+    added pencil screen shot
+    
+    Former-commit-id: 5e6e28fb818616444078893c0a971895458fac1a [formerly 64759659a84faabcee93398330e79bd24ed6d370]
+    Former-commit-id: 294cd7300d926d3b849748d62e7c19faaa1fd567
+
+[33mcommit 44945e93fa71726af21c4954430ebf1da39de106[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 11:17:51 2019 +1000
+
+    removed caps PNG file
+    
+    Former-commit-id: c1c922178bc58dd3d293828bd5d86de4c54b06ae [formerly 717ab4d90594ffe9e667f113a6f0da7ce4a7390a]
+    Former-commit-id: 198f5946a5ddcd32bc2b72e93dbfde747e8d5357
+
+[33mcommit b8cdec1868cacafd874ba43f57882518abf44c03[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 11:17:17 2019 +1000
+
+    added binder-logo
+    
+    Former-commit-id: fabfe52ce054b3f4efd89386f1bd2e6f794d6d72 [formerly 186275684eafbbf29416076933343f1684035233]
+    Former-commit-id: d000acd6d255001fc22364d172d97ffc1a928f13
+
+[33mcommit a6b0dfbc99f163f7551571bc1405ac0db370f12f[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 11:04:55 2019 +1000
+
+    fixed upper case PNG
+    
+    Former-commit-id: 1202c4062a92245d01d8e9f7ca7f43c1052ccc72 [formerly f9c98237f73e233b78f9f8fc9bb4bb50aef8dab9]
+    Former-commit-id: 8b9310794f4dbb9c3a678f8a441906b0f42a94c8
+
+[33mcommit ef6778505f1d309e752537ccc76203cf73e95b7f[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 11:02:54 2019 +1000
+
+    added github folk image to setup
+    
+    Former-commit-id: 529909a44c16fcde900a9c51b32b9cb14bf0ac9c [formerly 8165302aae7862c3e2443a84b5a5ec6d1f15143f]
+    Former-commit-id: 519640178bc59f023b1a4ea8967dd7346c58766f
+
+[33mcommit 3334243c74571a8fd1a4010d4ee8d8ba5e80a76d[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 10:55:52 2019 +1000
+
+    added github-fork screen shot
+    
+    Former-commit-id: dd2cad44c37017a74062765254e3b135e3531bc3 [formerly 6f46d7217f763974ff774577cd8042398c37f894]
+    Former-commit-id: 88b7c6589346ebca27798847624e0761275546f3
+
+[33mcommit 23ed88c9b11fa01c291c973e38ded52d0940aa38[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 10:40:52 2019 +1000
+
+    update to welcome
+    
+    Former-commit-id: 909f93b7e2f8c2ab9b4f7c828fd723c1272a4ca8 [formerly ecf0944bbb61bc58ce28fb013685f00a48f2e661]
+    Former-commit-id: 24d71b2a03236f6e9cca84603c9e57fe17b4d85d
+
+[33mcommit c4fb9695240a360243a5780fbed782e6d7231f21[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 10:30:32 2019 +1000
+
+    update alignment
+    
+    Former-commit-id: 592441ba102a0029671d77038c7bc7edb0159ad2 [formerly 2ec43687c78b51e772c5adc9bff84fff1a624d63]
+    Former-commit-id: c60510957f55775d691c52edc208c87deb5df3a8
+
+[33mcommit 90e4adff7ded3fbcdd0354c8de0f26bcb02f38a6[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Tue Jul 16 10:28:30 2019 +1000
+
+    valigned img
+    
+    Former-commit-id: ffb9cebc23c61715d33baa69278d9305aa67f512 [formerly 271a9346d41421967cb5e9800f158cbc29e03fea]
+    Former-commit-id: 8d1b5c009efeb029129c5caa7493501b7f655c79
+
+[33mcommit 465f27f4f95e10d7ee5bcfec88dde39873f629ab[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 15 18:12:26 2019 +1000
+
+    Update README.md
+    
+    Former-commit-id: ad391244e31501ea5ff742912080a4f07426f325 [formerly 7401d3bf727531406a9c93fdf7d8ade91670b167]
+    Former-commit-id: 9de9dff370cca088b20da60ed2ad74deffccd299
+
+[33mcommit 9e1ff378b7c522e617a05e4f6424b0cd7ee08df8[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 15 18:11:51 2019 +1000
+
+    tweaked title
+    
+    Former-commit-id: febeb01255499b59213de7aea377e50b5d55dd10 [formerly ef36d447a5fc306b4fc284d2ca47e6a5b1fe7269]
+    Former-commit-id: abfc4bb572d588926444ab6c90afc22f8b990475
+
+[33mcommit 5ddcea19dd10b38df3556fb87f9a3c03e0c93241[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 15 18:10:43 2019 +1000
+
+    added alt-text
+    
+    Former-commit-id: 5e553c80eb1e60d1b3fa7196b40b0a9f7499d7fd [formerly 0f5c7014dc218948e2a646145799b3cf11831121]
+    Former-commit-id: 921325eb5fd0fd0ad64f32f03412af5157094777
+
+[33mcommit f272e088aba42787be35b25bddbca9c0b44aa13e[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 15 18:09:40 2019 +1000
+
+    first commit
+    
+    Former-commit-id: e5451ad245da5fe6f15a17f9bf5568f45042f5f2 [formerly d7cac0e347dbe5c39fecf3294e16385a200fb944]
+    Former-commit-id: e26b5b84be8157bba2adbd6cd99c04c2b7fc2120
+
+[33mcommit 03a8758191f1a08d3b9aa8fdfa0fef188719d380[m
+Author: Richard Miller <richard.miller@mq.edu.au>
+Date:   Mon Jul 15 15:57:31 2019 +1000
+
+    Initial commit
+    
+    Former-commit-id: 65611a3e77ee62d5d6de344471e2809bcd63a3a4 [formerly 8cab015b53050256dc35023125bd72580493384d]
+    Former-commit-id: be4986c61147329e5e35cb3d810b39891652a9fa
